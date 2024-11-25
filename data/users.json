@@ -1,0 +1,23 @@
+[
+    {
+    "username": "Woody",
+    "email": "w.elguettabi@gmail.com",
+    "prompt": "Global politics and economy."
+    },
+        {
+    "username": "Charlie",
+    "email": "charlie@feinson.com",
+    "prompt": "Global oil and commodities markets."
+    },
+        {
+    "username": "Mouad",
+    "email": "mbouirigmouad@gmail.com",
+    "prompt": "News about the current wars and conflicts. Also Asian economy."
+    },
+    {
+    "username": "Ismail",
+    "email": "ismail.elguettabi@gmail.com",
+    "prompt": "Geopolitical news and ecology."
+    }
+
+]
