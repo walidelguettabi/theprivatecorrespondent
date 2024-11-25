@@ -1,1 +1,1 @@
-# theprivatecorrespondentt
+# theprivatecorrespondent
